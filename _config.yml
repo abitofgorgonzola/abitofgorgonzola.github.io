@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Doctor Batman Who
 email: doctorbatmanwho@tumblenet.tk
-description: >This is the official website of Tumble Network member and YouTuber, Doctor Batman Who.
+description: >
+ This is the official website of Tumble Network member and YouTuber, Doctor Batman Who.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://drbatmanwho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drbatmanwho
