@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Doctor Batman Who
-email: doctorbatmanwho@tumblenet.tk
+title: 303AL
+email: 
 description: >
- This is the official website of Tumble Network member and YouTuber, Doctor Batman Who.
+ This is the official website of Hutch.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://drbatmanwho.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: drbatmanwho
-github_username:  drbatmanwho
+url: "http://abitofgorgonzola.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  abitofgorgonzola
 
 # Build settings
 markdown: kramdown
